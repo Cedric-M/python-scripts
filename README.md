@@ -1,6 +1,6 @@
 # python-scripts
 
-One Paragraph of project description goes here
+A bunch of script in order to automatise basics command lines for users that don't have any bases about programming.
 
 ## Getting Started
 
@@ -44,7 +44,6 @@ Tips: for non-developers user you can simply double-clic on any scripts from Win
 ## Built With
 
 * [Python 3.7.3](https://www.python.org/downloads/release/python-373/) - Programming language.
-* [Wamp](http://www.wampserver.com/en/) - A Windows web development environment.
 * [Git Kraken](https://www.gitkraken.com/) - Git GUI client
 * [Visual Studio Code](https://code.visualstudio.com/) - A Microsoft source code editor.
 
